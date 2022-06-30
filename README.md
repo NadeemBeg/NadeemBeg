@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a target="_blank" href="https://drive.google.com/file/d/1YAJvWu7oR1wgwkQuoGtMiKqun2wR4fUm/view?usp=drivesdk"><img src="https://img.shields.io/badge/Portfolio-%23E34F26.svg?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/kunal-bafna-03" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/nadeem-beg-15b472148" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:ndmap24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
 <a target="_blank" href="https://drive.google.com/file/d/1YAJvWu7oR1wgwkQuoGtMiKqun2wR4fUm/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-FEAA2D?style=for-the-badge&logo=Resume&logoColor=white" alt="Resume" /></a>&nbsp;
 
