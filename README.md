@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 <h2 align="center">Tools</h2>
 <p align="center">
-  <img alt="atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" />&nbsp;
-  <img alt="codepen" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" />&nbsp;
+<!--    <img alt="atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" />&nbsp; -->
+ <!--   <img alt="codepen" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" />&nbsp; -->
 <!--   <img alt="codesandbox" src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" />&nbsp; -->
 <!--   <img alt="pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />&nbsp; -->
   <img alt="vsc" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
@@ -86,12 +86,12 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NadeemBeg&3&" alt="NadeemBeg"></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NadeemBeg&theme=dark)](https://git.io/streak-stats)
+<!--  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NadeemBeg&theme=dark)](https://git.io/streak-stats) -->
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=NadeemBeg&show_icons=true&locale=en&layout=compact" alt="NadeemBeg" /></p>
 
-<h2 align="center">My favorite projects</h2>
+<!--  <h2 align="center">My favorite projects</h2>
 <p align="center">
 <ul align="center">
   [job](https://github.com/NadeemBeg)
@@ -100,3 +100,4 @@ Here are some ideas to get you started:
  </ul>  
 </p>
 <br />
+ -->
