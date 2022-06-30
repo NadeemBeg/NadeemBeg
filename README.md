@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **NadeemBeg/NadeemBeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-<h1 align="center"><b>Hi There, I'm NADEEM BEG</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center"><b> I'm NADEEM BEG </b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align="center"><strong> Focus on each day, tackle it one by one, and you will be there before you know it.</strong></p>
 </p>
 
